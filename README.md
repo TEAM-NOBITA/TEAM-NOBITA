@@ -1,4 +1,5 @@
 ## Hi there 👋
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -18,17 +19,17 @@
 </picture>
 
 
-[![GIF](https://github.com/KING0712/KING0712/blob/main/KING0712.gif)](https://github.com/KING0712)
-   [![ 𝗠𝗥 𝗞𝗜𝗡𝗚 ](https://github-stats-alpha.vercel.app/api?username=KING0712 "KING0712")](https://github-stats-alpha.vercel.app/api?username=KING0712 "KING0712")
+[![GIF](https://github.com/TEAM-NOBITA/TEAM-NOBITA/blob/main/TEAM-NOBITA.gif)](https://github.com/TEAM-NOBITA)
+   [![ HARRY ](https://github-stats-alpha.vercel.app/api?username=TEAM-NOBITA "TEAM-NOBITA")](https://github-stats-alpha.vercel.app/api?username=TEAM-NOBITA "TEAM-NOBITA")
 
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🔥+𝗠𝗥+𝗞𝗜𝗡𝗚+👑">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🔥+HARRY+👑">
 
 
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
 
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KING0712&show_icons=true&locale=en&layout=compact" alt="KING0712" /></p>
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TEAM-NOBITA&show_icons=true&locale=en&layout=compact" alt="TEAM-NOBITA" /></p>
 
 ### Contact :
 <a href="https://t.me/II_BAD_MUNDA_II"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
@@ -37,6 +38,6 @@
 
 
 <!---
-KING0712/KING0712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TEAM-NOBITA/TEAM-NOBITA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
