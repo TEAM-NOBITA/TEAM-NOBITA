@@ -23,7 +23,6 @@
    [![ HARRY ](https://github-stats-alpha.vercel.app/api?username=TEAM-NOBITA "TEAM-NOBITA")](https://github-stats-alpha.vercel.app/api?username=TEAM-NOBITA "TEAM-NOBITA")
 
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🔥+HARRY+
 
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TEAM-NOBITA&show_icons=true&locale=en&layout=compact" alt="TEAM-NOBITA" /></p>
