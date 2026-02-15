@@ -1,8 +1,3 @@
-<svg width="850" height="250" viewBox="0 0 850 250" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=HARRY:wght@300;500;900&amp;display=swap');
-
 ## Hi there 👋
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
